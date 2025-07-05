@@ -34,8 +34,13 @@ I'm a passionate Computer Science student with a strong foundation in Java, Pyth
 
 ## 📱 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/dakshdeep-singh-josan/)
-- [LeetCode](https://leetcode.com/u/dakshjosan/)
+<a href="https://www.linkedin.com/in/dakshdeep-singh-josan/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/dakshjosan/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="32" height="32"/>
+</a>
 
 ---
 
