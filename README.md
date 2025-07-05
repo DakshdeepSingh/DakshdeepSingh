@@ -28,7 +28,9 @@ I'm a passionate Computer Science student with a strong foundation in Java, Pyth
 
 ## 🌐 Portfolio
 
-- [Personal Portfolio Website](https://dsj-portfolio.netlify.app/)
+<a href="https://dsj-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ---
 
@@ -37,9 +39,11 @@ I'm a passionate Computer Science student with a strong foundation in Java, Pyth
 <a href="https://www.linkedin.com/in/dakshdeep-singh-josan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<!--
 <a href="https://leetcode.com/u/dakshjosan/" target="_blank">
   <img src="https://img.shields.io/badge/LeedCode-24292E?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
 </a>
+-->
 
 ---
 
