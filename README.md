@@ -20,7 +20,6 @@ I'm a passionate Computer Science student with a strong foundation in Java, Pyth
 
 ## 📌 Pinned Projects
 
-<!-- Add your favorite projects below with a short description and a link! -->
 - [Project Name 1](https://github.com/DakshdeepSingh/project-1) — Short project description.
 - [Project Name 2](https://github.com/DakshdeepSingh/project-2) — Short project description.
 
